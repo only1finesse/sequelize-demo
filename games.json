@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"name": "FF9", "platform": "PS3"},
+        {"name": "Assasins Creed", "platform": "PS4"},
+        {"name": "Spider-Man", "platform": "PS5"},
+        {"name": "AMinecraft", "platform": "XboxOne"},
+        {"name": "COD", "platform": "XboxOne"}
+    ]
+}

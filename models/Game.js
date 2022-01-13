@@ -1,4 +1,5 @@
 const { db, DataTypes, Model } = require('../db');
+const User = require('./User')
 
 //create a game model ---> create a child class
 
@@ -12,5 +13,7 @@ Game.init({
 }, {
     sequelize: db
 })
+
+
 
 module.exports = Game

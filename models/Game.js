@@ -16,4 +16,4 @@ Game.init({
 
 
 
-module.exports = Game
+module.exports = {Game}

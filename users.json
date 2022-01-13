@@ -1,0 +1,9 @@
+{
+    "userdata": [
+        {"email": "123@yahoo.com", "password": "123456"},
+        {"email": "456@yahoo.com", "password": "6543321"},
+        {"email": "prime@yahoo.com", "password": "1235711"},
+        {"email": "odd@yahoo.com", "password": "13579"},
+        {"email": "even@yahoo.com", "password": "246810"}
+    ]
+}

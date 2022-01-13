@@ -13,4 +13,4 @@ User.init({
 
 // User.hasOne(Game)
 
-module.exports = User
+module.exports = {User}

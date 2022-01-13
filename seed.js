@@ -2,8 +2,7 @@
 const path = require('path'); 
 const fs = require('fs').promises // help to resolve/reject promises
 const { db } = require('./db'); 
-const Game = require('./models/Game')
-const User = require('./models/User')
+const { Game, User } = require('./models/Index');
 
 // define seed function 
 const seed = async () => {
@@ -35,7 +34,7 @@ const seed = async () => {
 }
 
 // invoke seed function 
-seed();
+// seed();
 
 //export seed function
 module.exports = seed
